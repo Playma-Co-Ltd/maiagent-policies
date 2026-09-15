@@ -2,5 +2,9 @@
   "Doc PDF/en/maiagent-user-guide-gitbook_en.pdf": {
     "blob": "8b28232a168c8f10ba95dad9fd7020133f7a1f0d",
     "source_sha": "d2cf5c2ec9e3b9e6dd9bdc8391737bbb84e607eb"
+  },
+  "Doc PDF/ja/maiagent-user-guide-gitbook_ja.pdf": {
+    "blob": "0508d1898205b7cd7a047166a33124aef46c1d59",
+    "source_sha": "28d5aacbe3f7e902676df8d1c50f2b11dc190cb2"
   }
 }
